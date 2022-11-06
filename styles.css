@@ -118,14 +118,14 @@ main {
             
         } }
         
-        @media only screen and (max-width: 385px) {
+        @media only screen and (max-width: 405px) {
             body {
-              background-color: lightblue;
+              background-color: rgb(55, 102, 117);
             }
             .articulo_1{ 
         
                 position: relative;
-                font-size: 10px;
+                font-size: 11px;
                 
                 
             }
